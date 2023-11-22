@@ -1,0 +1,29 @@
+.heading
+{
+font-family: 'Arvo', serif;
+font-size: 40px;
+width: 100%;
+margin: 0px;
+color:#9d0069;
+text-shadow: 0 0 3px #FF0000, 0 0 5px #ff00ae;
+}
+
+#status
+{
+font-size: 23px;
+color: #000000;
+text-shadow: 0 0 3px #ff009d, 0 0 5px #e1199e;
+}
+
+body
+{
+    background-size: repeat;
+    background-position: center;
+}
+
+canvas 
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
